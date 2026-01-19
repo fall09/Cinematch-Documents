@@ -6,23 +6,6 @@ The purpose of this repository is to store and present all academic documents re
 
 ---
 
-## 📂 Repository Structure
-
-Cinematch-Documents/
-
-|-- diagrams/
-|   |-- system-architecture
-|   |-- database-design
-|   |-- sequence-diagrams
-|
-|-- CINEMATCH_presentation.pdf
-|-- MockUp_21COMP1010_22SOFT1055.pdf
-|-- RAD_21COMP1010_22SOFT1055.pdf
-|-- README.md
-|-- LICENSE
-
-
----
 
 ## 📄 Documents Included
 
